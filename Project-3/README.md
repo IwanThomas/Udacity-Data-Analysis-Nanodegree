@@ -10,4 +10,4 @@ In this folder there is
 - a .ipynb file showing the majority of the code used 
 - multiple .py files used to load csvs into sql
 - a report 
-
+- a small sample of the XML Document parsed (the XML document I used for the project was 60 MB
