@@ -1,4 +1,4 @@
-In this project, I choose the map of London from https://www.openstreetmap.org and used data munging techniques, such as assessing the quality of the data for validity, accuracy, completeness, consistency and uniformity, to clean the OpenStreetMap data. Finally, I uploaded the cleaned data to SQL for querying.
+In this project, I choose the map of London from https://www.openstreetmap.org and used data munging techniques to clean the OpenStreetMap data. Finally, I uploaded the cleaned data to SQL for querying.
 
 In this project I:
 - parsed, audited and cleaned a large XML file
@@ -10,4 +10,4 @@ In this folder there is
 - a .ipynb file showing the majority of the code used 
 - multiple .py files used to load csvs into sql
 - a report 
-- a small sample of the XML Document parsed (the XML document I used for the project was 60 MB
+- a small sample of the XML Document parsed (the XML document I used for the project was 60 MB)
