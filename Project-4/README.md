@@ -2,5 +2,5 @@ In this project, I used R and apply exploratory data analysis techniques to expl
 
 In this folder, I have included a 
   - The RMD file that contains my analysis, final plots and summary, and reflection 
-  - The HTML file that was knitted from your RMD file. It is too large to be viewed on github but can be found [here] (https://rawgit.com/IwanThomas/Udacity-Data-Analysis-Nanodegree/master/Project-4/RedWineAnalysis.html)
+  - The HTML file that was knitted from your RMD file. It is too large to be viewed on github but can be found [here] (https://rawgit.com/IwanThomas/Udacity-Data-Analysis-Nanodegree/master/Project-4/RedWineRMD.html)
   - The data set used 
