@@ -1,6 +1,6 @@
-In this project, I choose the map of London from https://www.openstreetmap.org and used data munging techniques to clean the OpenStreetMap data. Finally, I uploaded the cleaned data to SQL for querying.
+I chose the London area from https://www.openstreetmap.org and used data munging techniques to clean the OpenStreetMap data. I uploaded the cleaned data to SQL for querying.
 
-In this project I:
+Key skills learnt:
 - parsed, audited and cleaned a large XML file
 - wrote this file to CSV
 - uploaded and queried the file in SQL
