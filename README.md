@@ -22,6 +22,6 @@ Projects :
 
 - Project 3 - Wrangle OpenStreetMap Data
   - Subjects Covered:
-      - Data Wrangling with CSV, Excel, JSON, XML and HTML.
+      - Data Extraction with CSV, Excel, JSON, XML and HTML.
       - Data Cleaning
       - SQL
