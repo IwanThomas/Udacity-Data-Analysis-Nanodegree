@@ -24,7 +24,7 @@ Following on from the feedback, I implemented the following changes
 - I changed the y axis from survival count to survival rate
 - I matched the ordering of the charts with the ordering of the legend.
 
-Below is the final rendition of my data visualisation
+Below is the final rendition of my data visualisation. The html code can be found in index2.html.
 
 ![Alt text](https://github.com/IwanThomas/Udacity-Data-Analysis-Nanodegree/blob/master/Project-6/Images/index2_screenshot.PNG)
 
@@ -32,5 +32,5 @@ Below is the final rendition of my data visualisation
 
 - dimple.js Documentation
 - Stack Overflow
-- Udacity Couse
+- Udacity Course
 
