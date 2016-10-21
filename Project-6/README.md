@@ -8,7 +8,7 @@ I downloaded the data and used techniques from the Exploratory Data Analysis (ED
 
 I created an initial design which can be seen below. The accompanying html code can be found in index1.html.
 
-![alt tag](https://rawgit.com/IwanThomas/Udacity-Data-Analysis-Nanodegree/master/Project-6/Images/index1_screenshot.PNG)
+![Alt text](https://github.com/IwanThomas/Udacity-Data-Analysis-Nanodegree/blob/master/Project-6/Images/index1_screenshot.PNG)
 
 ## Feedback 
 
