@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <script src="http://d3js.org/d3.v3.min.js"></script>
+  <script src="http://dimplejs.org/dist/dimple.v2.0.0.min.js"></script>
+
+  <style>
+    /*h2 {
+      text-align: left;
+    }*/
+  </style>
+
+  <script type="text/javascript">
+    function draw(data) {
+
+      /*
+        D3.js setup code
+      */
+
+      "use strict";
+      var margin = 75,
+          width = 1000 - margin,
+          height = 500 - margin;
+
+      // add title
+      d3.select('body').
+          append("h2").
+          text("Survival Rate Sorted by Gender and Passenger Class");
+
+      // create svg canvas
+      var svg = d3.select("body")
+        .append("svg")
+        .attr("width", width + margin)
+        .attr("height", height + margin)
+      .append('g')
+          .attr('class','chart');
+
+        /*
+          Dimple.js Chart construction code
+        */
+
+        // Survival rate by passenger class for males and females
+        var myChart = new dimple.chart(svg, data);
+        // first sort of Pclass and then on sex
+        var xaxis = myChart.addCategoryAxis("x", ["Pclass", "Sex"]);
+        var yaxis = myChart.addMeasureAxis("y", "Survived");
+        yaxis.tickFormat = "%";
+        var mySeries = myChart.addSeries("Sex", dimple.plot.bar);
+        // use average instead to get survival rate
+        mySeries.aggregate = dimple.aggregateMethod.avg;
+        myChart.addLegend(700, 60, 500, 20, "left");
+        myChart.draw();
+      };
+
+  </script>
+</head>
+
+<body>
+  <script type="text/javascript">
+  /*
+    Use D3 (not dimple.js) to load the CSV file
+    and pass the contents of it to the draw function
+    */
+  d3.csv("titanic_data.csv", draw);
+  </script>
+</body>
+
+</html>
