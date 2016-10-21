@@ -12,4 +12,25 @@ I created an initial design which can be seen below. The accompanying html code 
 
 ## Feedback 
 
+I gathered feedback from three friends. Here is a summary of what they told me:
+- The chart needs a title.
+- It would be better to see the survival rate instead of just the raw count.
+- The chart order and legend order should match.
+
+## Post-feedback Design
+
+Following on from the feedback, I implemented the following changes
+- I added a title to my chart
+- I changed the y axis from survival count to survival rate
+- I matched the ordering of the charts with the ordering of the legend.
+
+Below is the final rendition of my data visualisation
+
+![Alt text](https://github.com/IwanThomas/Udacity-Data-Analysis-Nanodegree/blob/master/Project-6/Images/index2_screenshot.PNG)
+
+## Resources
+
+- dimple.js Documentation
+- Stack Overflow
+- Udacity Couse
 
