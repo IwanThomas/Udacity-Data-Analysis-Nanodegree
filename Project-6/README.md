@@ -18,27 +18,21 @@ The second version looked like this:
 
 ## Feedback 
 
-I gathered feedback from three friends. 
+I gathered three pieces of feedback. 
 
-### Feedback 1 - Girlfriend
+### Feedback 1 and Follow-up - Girlfriend
 - The chart needs a title.
+  - Added a title
 
-### Follow-up:
-- Added a title
-
-### Feedback 2 - Colleague
+### Feedback 2 and Follow-up - Colleague
 - It would be better to see the survival rate instead of just the raw count.
+  - I changed the y axis from survival count to survival rate
 - The chart order and legend order should match.
+  - I matched the ordering of the charts with the ordering of the legend.
 
-### Follow-up
-- I changed the y axis from survival count to survival rate
-- I matched the ordering of the charts with the ordering of the legend.
-
-### Feedback 3 - Udacity Reviewer
+### Feedback 3 and Follow-up - Udacity Reviewer
 - As this is an explanatory visualisation, and not exploratory, we require that the visualization centers on a specific, clear finding in the data.
-
-### Follow-up
-- Updated the title to explain what finding I found from that visualization
+  - Updated the title to explain what finding I found from that visualization
 
 Below is the final rendition of my data visualisation. The html code can be found in index3.html.
 
