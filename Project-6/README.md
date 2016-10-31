@@ -31,12 +31,14 @@ I gathered three pieces of feedback.
   - I matched the ordering of the charts with the ordering of the legend.
 
 ### Feedback 3 and Follow-up - Udacity Reviewer
-- As this is an explanatory visualisation, and not exploratory, we require that the visualization centers on a specific, clear finding in the data.
+- "As this is an explanatory visualisation, and not exploratory, we require that the visualization centers on a specific, clear finding in the data."
   - Updated the title to explain what finding I found from that visualization
+- "One minor suggestion -- usually blueish colors mean males and pink -- females, not vice versa, so I'd suggest switching colors on the chart."
+  - Switch colours on chart
 
-Below is the final rendition of my data visualisation. The html code can be found in index3.html.
+Below is the final rendition of my data visualisation. The html code can be found in index4.html.
 
-![Alt text](https://github.com/IwanThomas/Udacity-Data-Analysis-Nanodegree/blob/master/Project-6/Images/index3_screenshot.PNG)
+![Alt text](https://github.com/IwanThomas/Udacity-Data-Analysis-Nanodegree/blob/master/Project-6/Images/index4_screenshot.PNG)
 
 ## Resources
 
