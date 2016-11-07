@@ -15,4 +15,4 @@ This project will require you to both make design decisions about how to run an 
 
 - Project Instructions
 - Report detailing my analysis of the A/B Test
-- Data used for the analysis
+
