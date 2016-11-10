@@ -5,6 +5,8 @@ This repository contains the project work from the Udacity Data Analysis Nanodeg
 - make predictions using machine learning, and 
 - clearly communicate these findings.
 
+![Alt text](https://github.com/IwanThomas/Udacity-Data-Analysis-Nanodegree/blob/master/certificate.pdf)
+
 Projects :
 - Unit 1 - Statistics
   - Subjects Covered:
